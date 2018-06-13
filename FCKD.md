@@ -3,3 +3,8 @@
 This is the checkmark list where we still want to go or have been
 
 - [ ] Zum Schlegigga Eck
+- [ ] Thai Dat
+- [ ] Kwan Kao
+- [ ] Mertens
+- [ ] Dilgelay
+- [ ] Cigköftem
