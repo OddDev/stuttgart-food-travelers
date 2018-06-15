@@ -2,7 +2,12 @@
 
 This is the checkmark list where we still want to go or have been
 
-- [ ] Zum Schlegigga Eck
+- [x] Zum Schlegigga Eck
+
+| Outside seating | Return | Class  |
+| ------------- |:-------------:| -----:|
+| trve      | trve | C-Class Cabriolet |
+
 - [ ] Thai Dat
 - [ ] Kwan Kao
 - [ ] Mertens
