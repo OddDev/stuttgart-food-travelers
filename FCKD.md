@@ -4,9 +4,9 @@ This is the checkmark list where we still want to go or have been
 
 - [x] Zum Schlegigga Eck
 
-| Outside seating | Return | Class  |
-| ------------- |-------------| -----|
-|trve      |trve | C-Class Cabriolet |
+| Outside seating | Return | Class  | Report date |
+| ------------- | ------------- | --------------| --------- |
+|trve      |trve | C-Class Cabriolet | 14.06.2018 |
 
 - [ ] Thai Dat
 - [ ] Kwan Kao
