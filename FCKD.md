@@ -2,12 +2,7 @@
 
 This is the checkmark list where we still want to go or have been
 
-- [x] Zum Schlegigga Eck
-
-| Outside seating | Return | Class  | Report date |
-| ------------- | ------------- | --------------| --------- |
-|trve      |trve | C-Class Cabriolet | 14.06.2018 |
-
+- [x] Zum Schlegigga Eck ([Review](/reviews/ZumSchlegiggaEck.md))
 - [ ] Thai Dat
 - [ ] Kwan Kao
 - [ ] Mertens
