@@ -1,4 +1,6 @@
 Stars: trve
+Outside Seating: trve
+Date: 14.06.2018
 
 Atmosphere Review:
 
@@ -11,5 +13,5 @@ Atmosphere Review:
 ""
 - K
 
-""
+"C-Class Cabriolet"
 - D
