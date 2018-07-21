@@ -15,3 +15,4 @@ This is the checkmark list where we still want to go or have been
 - [ ] Cigköftem
 - [ ] Koerle und Adam
 - [ ] Reiskorn
+- [x] Büffel & Bier
