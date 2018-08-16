@@ -3,7 +3,7 @@
 This is the checkmark list where we still want to go or have been
 
 - [x] Zum Schlegigga Eck ([Review](/reviews/ZumSchlegiggaEck.md))
-- [ ] Thai Dat
+- [x] Thai Dat
 - [ ] Kwan Kao
 - [ ] Mertens
 - [ ] Dilgelay
